@@ -1,0 +1,10 @@
+{
+  "lint": {
+    "files": {
+      "exclude": ["original.js"]
+    },
+    "rules": {
+      "exclude": ["no-explicit-any"]
+    }
+  }
+}
